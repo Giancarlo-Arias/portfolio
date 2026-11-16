@@ -29,7 +29,7 @@ I enjoy understanding how each part of a system connects—from the interface an
 | :-- | :-- |
 | **Frontend** | TypeScript, JavaScript, React, Next.js, Astro, Tailwind CSS, HTML5, CSS3 |
 | **Backend** | Python, FastAPI, C#, ASP.NET Core, .NET, REST APIs |
-| **Databases** | PostgreSQL, MySQL, SQL Server, SQL, PL/pgSQL, T-SQL; queries, functions, stored procedures & triggers |
+| **Databases** | PostgreSQL, MySQL, SQL, PL/pgSQL (PostgreSQL); database queries, functions & triggers |
 | **Tools & workflow** | Git, GitHub, Docker, Postman, n8n, WordPress |
 | **Quality & AI** | Functional QA, RAG, vector search, embeddings, AI API integrations |
 
