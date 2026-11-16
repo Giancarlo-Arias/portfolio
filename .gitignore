@@ -1,4 +1,4 @@
-﻿# build output
+# build output
 dist/
 
 # generated types
@@ -27,3 +27,8 @@ pnpm-debug.log*
 
 # Vercel generated files
 .vercel/
+
+# Local AI assistants and installed design/development skills
+.agents/
+.claude/
+.codex/
