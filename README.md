@@ -1,42 +1,75 @@
-<h1 align="center">Hi, I'm Giancarlo Arias 👋</h1>
-<p align="center">
-  <strong>Junior Software Developer · Costa Rica 🇨🇷</strong><br/>
-  Building practical web applications, APIs, and AI-assisted tools.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Giancarlo-Arias?tab=repositories">Repositories</a> ·
-  <a href="https://github.com/Giancarlo-Arias/giancarlo-arias">Portfolio website (source)</a>
-</p>
+# Giancarlo Arias
 
-## About me
+**Software Developer · Costa Rica**
 
-I'm a software developer with a background in Information Systems Engineering and hands-on experience with frontend development, quality assurance, and workflow automation.
+*Building thoughtful web applications, reliable APIs, and useful digital products.*
 
-I enjoy turning ideas into usable products, learning how systems work end to end, and improving both functionality and user experience.
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Giancarlo-Arias?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website%20in%20progress-0F766E?style=flat-square&logo=astro&logoColor=white)](https://github.com/Giancarlo-Arias/giancarlo-arias)
 
-- 💻 **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Astro, Tailwind CSS
-- ⚙️ **Backend & data:** Python, FastAPI, PostgreSQL, REST APIs
-- 🧪 **Also working with:** Functional QA, WordPress, Git, automation with n8n
-- 🌱 **Currently exploring:** Full-stack development, RAG, embeddings, and AI-powered applications
-- 🌎 **Based in:** Costa Rica
-
-## Selected work
-
-| Project | Description |
-| --- | --- |
-| [Personal portfolio](https://github.com/Giancarlo-Arias/giancarlo-arias) | Bilingual portfolio website developed with Astro, Tailwind CSS, and GSAP. |
-| [ControlActivosUNA](https://github.com/Giancarlo-Arias/ControlActivosUNA) | University project repository. |
-| [Android](https://github.com/Giancarlo-Arias/Android) | Mobile development project repository. |
-
-I'm also developing **StudyAI**, a study assistant that explores document processing, retrieval-augmented generation (RAG), and AI-assisted learning. The project is still in development.
-
-## Let's connect
-
-I'm interested in junior software development opportunities and collaborating on meaningful projects.
-
-- [Explore my GitHub repositories](https://github.com/Giancarlo-Arias?tab=repositories)
+</div>
 
 ---
 
-<p align="center"><sub>Always learning. Always building.</sub></p>
+### About
+
+I'm a software developer with a degree in **Information Systems Engineering** from Universidad Nacional de Costa Rica. I have hands-on experience developing responsive web interfaces, integrating APIs, performing functional QA, and building workflow automations.
+
+I enjoy understanding how each part of a system connects—from the interface and business logic to the database—and using that knowledge to build practical, maintainable solutions.
+
+- **Professional experience:** web development, QA, WordPress, SEO integrations, and automation.
+- **Current focus:** full-stack development, clean architecture, and AI-assisted applications.
+- **Open to:** junior software development roles and opportunities to keep learning.
+
+### Technologies
+
+| Area | Tools & technologies |
+| :-- | :-- |
+| **Frontend** | JavaScript, TypeScript, React, Next.js, Astro, HTML, CSS, Tailwind CSS |
+| **Backend** | Python, FastAPI, C#, .NET, REST APIs |
+| **Databases** | PostgreSQL, SQL |
+| **Tools & workflow** | Git, GitHub, Docker, Postman, n8n, WordPress |
+| **Quality & AI** | Functional QA, RAG, vector search, embeddings, AI API integrations |
+
+### Featured projects
+
+#### StudyAI — AI-powered study assistant
+**Next.js · React Native / Expo · FastAPI · PostgreSQL · pgvector · RAG**
+
+A personal learning application in active development. It brings together document management, semantic search, AI-generated quizzes, user progress, and a mobile experience. I'm using this project to deepen my understanding of full-stack architecture, database design, retrieval pipelines, and AI integration.
+
+<sub>In development · Source repository currently private</sub>
+
+#### FitPass — Gym management platform
+**Next.js · FastAPI · PostgreSQL · REST APIs · WebSockets**
+
+University software project to manage gym operations, including memberships, payments, services, and personalized training routines. The application explored AI-assisted workout planning, backend validation, database integration, and real-time updates.
+
+<sub>University project · Universidad Nacional de Costa Rica</sub>
+
+#### [Personal portfolio](https://github.com/Giancarlo-Arias/giancarlo-arias) — Bilingual developer website
+**Astro · TypeScript · Tailwind CSS · GSAP**
+
+A Spanish/English portfolio website focused on responsive layouts, accessible interactions, motion design, and a polished user experience.
+
+### Professional work
+
+Web experiences and business software I've contributed to professionally:
+
+- **[Taller Alpha](https://talleralpha.com/)** — automotive workshop management software.
+- **[POS Restaurantes](https://posrestaurantes.com/)** — sales and inventory solutions for restaurants.
+- **[Posmovi](https://posmovi.com/)** — point-of-sale and commercial management platform.
+
+<sub>These are team/company products; the linked websites are not presented as personal source-code repositories.</sub>
+
+---
+
+<div align="center">
+
+**Always learning. Always building.**
+
+[View all repositories](https://github.com/Giancarlo-Arias?tab=repositories)
+
+</div>
