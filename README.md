@@ -1,23 +1,42 @@
-# Giancarlo Arias Dev
+<h1 align="center">Hi, I'm Giancarlo Arias 👋</h1>
+<p align="center">
+  <strong>Junior Software Developer · Costa Rica 🇨🇷</strong><br/>
+  Building practical web applications, APIs, and AI-assisted tools.
+</p>
 
-Personal portfolio built with Astro, Tailwind CSS, and GSAP. Spanish is the default language; English pages live under `/en`.
+<p align="center">
+  <a href="https://github.com/Giancarlo-Arias?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/Giancarlo-Arias/giancarlo-arias">Portfolio website (source)</a>
+</p>
 
-## Development
+## About me
 
-```sh
-pnpm install
-pnpm dev
-pnpm build
-pnpm preview
-```
+I'm a software developer with a background in Information Systems Engineering and hands-on experience with frontend development, quality assurance, and workflow automation.
 
-## Localization
+I enjoy turning ideas into usable products, learning how systems work end to end, and improving both functionality and user experience.
 
-- Translation strings live in `src/i18n/es.ts` and `src/i18n/en.ts`.
-- `src/i18n/types.ts` defines the required message shape. Both language files must satisfy it, so TypeScript flags missing or incorrectly shaped translations.
-- Astro's official i18n router is configured in `astro.config.mjs`. It owns the available locales, the default locale, and URL prefixes.
-- Generate internal localized links with `getRelativeLocaleUrl()` from `astro:i18n`; do not hardcode localized URLs.
-- Pages pass their locale to `MainLayout` and localized components. Keep user-facing copy in the message files instead of embedding it in markup.
-- For repeatable content entries such as projects or articles, use `Localized<T>` from `src/i18n/types.ts` for each translated field. This requires an `es` and an `en` value on every entry at compile time.
+- 💻 **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Astro, Tailwind CSS
+- ⚙️ **Backend & data:** Python, FastAPI, PostgreSQL, REST APIs
+- 🧪 **Also working with:** Functional QA, WordPress, Git, automation with n8n
+- 🌱 **Currently exploring:** Full-stack development, RAG, embeddings, and AI-powered applications
+- 🌎 **Based in:** Costa Rica
 
-To add another language, add it to Astro's `i18n.locales`, create the corresponding `src/pages/[locale]/` pages, and add a typed message file. The message type makes each locale cover the same copy keys.
+## Selected work
+
+| Project | Description |
+| --- | --- |
+| [Personal portfolio](https://github.com/Giancarlo-Arias/giancarlo-arias) | Bilingual portfolio website developed with Astro, Tailwind CSS, and GSAP. |
+| [ControlActivosUNA](https://github.com/Giancarlo-Arias/ControlActivosUNA) | University project repository. |
+| [Android](https://github.com/Giancarlo-Arias/Android) | Mobile development project repository. |
+
+I'm also developing **StudyAI**, a study assistant that explores document processing, retrieval-augmented generation (RAG), and AI-assisted learning. The project is still in development.
+
+## Let's connect
+
+I'm interested in junior software development opportunities and collaborating on meaningful projects.
+
+- [Explore my GitHub repositories](https://github.com/Giancarlo-Arias?tab=repositories)
+
+---
+
+<p align="center"><sub>Always learning. Always building.</sub></p>
