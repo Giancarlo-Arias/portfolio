@@ -19,7 +19,7 @@ I'm a software developer with a degree in **Information Systems Engineering** fr
 
 I enjoy understanding how each part of a system connects—from the interface and business logic to the database—and using that knowledge to build practical, maintainable solutions.
 
-- **Professional experience:** web development, QA, WordPress, SEO integrations, and automation.
+- **Professional experience:** frontend development with Astro, JavaScript, HTML, CSS, Tailwind CSS, QA, WordPress, SEO integrations, and automation.
 - **Current focus:** full-stack development, clean architecture, and AI-assisted applications.
 - **Open to:** junior software development roles and opportunities to keep learning.
 
@@ -27,20 +27,20 @@ I enjoy understanding how each part of a system connects—from the interface an
 
 | Area | Tools & technologies |
 | :-- | :-- |
-| **Frontend** | JavaScript, TypeScript, React, Next.js, Astro, HTML, CSS, Tailwind CSS |
-| **Backend** | Python, FastAPI, C#, .NET, REST APIs |
-| **Databases** | PostgreSQL, SQL |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Astro, Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Python, FastAPI, C#, ASP.NET Core, .NET, REST APIs |
+| **Databases** | PostgreSQL, MySQL, SQL Server, SQL, PL/pgSQL, T-SQL; queries, functions, stored procedures & triggers |
 | **Tools & workflow** | Git, GitHub, Docker, Postman, n8n, WordPress |
 | **Quality & AI** | Functional QA, RAG, vector search, embeddings, AI API integrations |
 
 ### Featured projects
 
-#### StudyAI — AI-powered study assistant
+#### [StudyAI](https://github.com/Giancarlo-Arias/StudyAI) — AI-powered study assistant
 **Next.js · React Native / Expo · FastAPI · PostgreSQL · pgvector · RAG**
 
 A personal learning application in active development. It brings together document management, semantic search, AI-generated quizzes, user progress, and a mobile experience. I'm using this project to deepen my understanding of full-stack architecture, database design, retrieval pipelines, and AI integration.
 
-<sub>In development · Source repository currently private</sub>
+<sub>In development · [Explore the source code](https://github.com/Giancarlo-Arias/StudyAI)</sub>
 
 #### FitPass — Gym management platform
 **Next.js · FastAPI · PostgreSQL · REST APIs · WebSockets**
